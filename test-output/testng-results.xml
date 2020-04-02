@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="123863" started-at="2020-04-02T13:54:30Z" finished-at="2020-04-02T13:56:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="123863" started-at="2020-04-02T13:54:30Z" finished-at="2020-04-02T13:56:34Z">
+      <class name="tests.SignInTest">
+        <test-method status="PASS" signature="SignIn_Test(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInTest@51efea79]" name="SignIn_Test" duration-ms="22167" started-at="2020-04-02T14:54:30Z" data-provider="icelandTest" finished-at="2020-04-02T14:54:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intro4ebony@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA4188]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn_Test -->
+        <test-method status="PASS" signature="SignIn_Test(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInTest@51efea79]" name="SignIn_Test" duration-ms="23265" started-at="2020-04-02T14:54:53Z" data-provider="icelandTest" finished-at="2020-04-02T14:55:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intro4eboy@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA4188]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn_Test -->
+        <test-method status="PASS" signature="SignIn_Test(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInTest@51efea79]" name="SignIn_Test" duration-ms="18555" started-at="2020-04-02T14:55:16Z" data-provider="icelandTest" finished-at="2020-04-02T14:55:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intro4ebony@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA41588]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn_Test -->
+        <test-method status="PASS" signature="SignIn_Test(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInTest@51efea79]" name="SignIn_Test" duration-ms="19575" started-at="2020-04-02T14:55:35Z" data-provider="icelandTest" finished-at="2020-04-02T14:55:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intro4ebonyr@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA4188]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn_Test -->
+        <test-method status="PASS" signature="SignIn_Test(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInTest@51efea79]" name="SignIn_Test" duration-ms="19129" started-at="2020-04-02T14:55:54Z" data-provider="icelandTest" finished-at="2020-04-02T14:56:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intro4ebony@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA41688]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn_Test -->
+        <test-method status="PASS" signature="SignIn_Test(java.lang.String, java.lang.String)[pri:0, instance:tests.SignInTest@51efea79]" name="SignIn_Test" duration-ms="21052" started-at="2020-04-02T14:56:13Z" data-provider="icelandTest" finished-at="2020-04-02T14:56:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[intro4ebuony@yahoo.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[isuA41u88]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SignIn_Test -->
+      </class> <!-- tests.SignInTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
