@@ -1,2 +1,2 @@
 # DataDrivenFrameworkUsingDataProviderAnnotation
-DataDrivenFrameworkUsingDataProviderAnnotation
+DataDrivenFramework
